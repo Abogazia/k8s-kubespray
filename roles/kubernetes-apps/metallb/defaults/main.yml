@@ -1,5 +1,5 @@
 ---
-metallb_enabled: false
+metallb_enabled: true
 metallb_log_level: info
 metallb_protocol: "layer2"
 metallb_port: "7472"

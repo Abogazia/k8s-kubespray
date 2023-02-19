@@ -168,7 +168,7 @@ cert_manager_enabled: false
 #     - "8.8.8.8"
 
 # MetalLB deployment
-metallb_enabled: true
+metallb_enabled: false
 metallb_speaker_enabled: "{{ metallb_enabled }}"
 metallb_ip_range:
   - "10.5.0.50-10.5.0.99"
